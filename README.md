@@ -4,7 +4,7 @@
 
 前端仓库地址：[Aurora 聚合搜索平台前端 - github](https://github.com/Pani-s/aurora-search-front)
 
-###介绍:
+### 介绍:
 
 企业级一站式聚合搜索平台，基于 **Vue3前端+Spring Boot后端+Elastic Stack** 的全栈项目。
 对用户来说，使用该平台，可以在同一个页面集中搜索出不同来源、不同类型的内容，提升用户的检索效率和搜索
@@ -28,14 +28,14 @@
 
 <img src="http://pics.soogyu.xyz/picgo/search_structure.PNG" style="zoom: 50%;" />
 
-##技术栈
+## 技术栈
 
-###**前端**
+### **前端**
 - Vue 3
 - Ant Design Vue组件库
 - 页面状态同步机制
 
-###**后端**
+### **后端**
 - Spring Boot2.7框架
 - springboot-init项目模板
 - MySQL数据库
